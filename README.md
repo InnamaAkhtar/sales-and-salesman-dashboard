@@ -82,5 +82,5 @@ business insights using interactive dashboards.
 Aspiring Data Analyst passionate about data analysis,
 business intelligence, and data visualization.
 
-- GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
+- GitHub: [GitHub Profile](GITHUB_PROFILE_LINK)
 - Skills: Microsoft Excel, Data Analysis, Data Visualization
