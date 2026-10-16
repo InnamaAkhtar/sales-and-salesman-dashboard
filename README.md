@@ -75,6 +75,18 @@ dashboard development, and data visualization.
 It showcases the ability to transform raw sales data into meaningful
 business insights using interactive dashboards.
 
+## 📊 Sales Dashboard
+
+![Sales Dashboard](sales-dashboard.png)
+
+## 👨‍💼 Salesman Dashboard
+
+![Product Dashboard](Product-dashboard.png)
+
+## 📈 Dashboard Insights
+
+![ SalesMans Dashboard ](SalesMans-dashboard.png)
+
 ## 👤 Author
 
 **Innama Akhtar**
