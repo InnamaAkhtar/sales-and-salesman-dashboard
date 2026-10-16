@@ -85,7 +85,7 @@ business insights using interactive dashboards.
 
 ## 📈 Salesman Dashboard 
 
-![ Salesman Dashboard ](SalesMans-dashboard.png)
+![ Salesman Dashboard ](https://github.com/InnamaAkhtar/sales-and-salesman-dashboard/blob/main/Image.png)
 
 ## 👤 Author
 
